@@ -1,0 +1,26 @@
+// Place all the styles related to the say controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+html {
+	border-top: 4px solid #666;
+	padding-top: 10px;
+
+	h1, ul, p{
+		font-family: sans-serif;
+	}
+	p {
+		color:#666;
+	}
+
+	a {font-size: 18px;}
+
+	img {
+		float: right;
+		padding: 0px;
+		height: 42px;
+		width: 42px;
+		position: relative;
+		margin: -10px 0px 0px 0px;
+	}
+}
